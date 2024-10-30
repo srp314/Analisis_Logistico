@@ -39,4 +39,7 @@ Este informe es posible gracias a la elaboración, gestión y seguimiento de pro
 
 
 ### Contacto
-Si tienes preguntas o deseas discutir el proyecto, puedes contactarme en pavlito.fg@gmail.com o a través de mi LinkedIn.
+Si tienes preguntas o deseas discutir el proyecto, puedes contactarme en pavlito.fg@gmail.com o a través de mi  <p><a href="https://drive.google.com/file/d/1T3OJbU6MQXAqjEBW1Hsyj48FActOrZTp/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Mi%20CV%20en%20PDF-FF5733?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="CV">
+  </a>
+</p>.
