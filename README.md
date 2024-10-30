@@ -35,3 +35,8 @@ Este informe es posible gracias a la elaboración, gestión y seguimiento de pro
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/1d223c8f-e7ff-4368-8e44-30f3f28ee049)
+![image](https://github.com/user-attachments/assets/da47a43b-9db5-4d00-945b-c0135cb71b32)
+
+
+### Contacto
+Si tienes preguntas o deseas discutir el proyecto, puedes contactarme en pavlito.fg@gmail.com o a través de mi LinkedIn.
