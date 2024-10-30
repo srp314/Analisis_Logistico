@@ -39,7 +39,6 @@ Este informe es posible gracias a la elaboración, gestión y seguimiento de pro
 
 
 ### Contacto
-Si tienes preguntas o deseas discutir el proyecto, puedes contactarme en pavlito.fg@gmail.com o a través de mi <p><a href="https://www.linkedin.com/in/pablo-baez-/">
-    <img src="https://img.shields.io/badge/Mi%20CV%20en%20PDF-FF5733?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="CV">
+Si tienes preguntas o deseas discutir el proyecto, puedes contactarme en pavlito.fg@gmail.com o a través de mi <p><a href="https://www.linkedin.com/in/pablo-baez-/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>.
