@@ -1,7 +1,7 @@
 # Análisis de la Operativa Logística en Power BI
 
 ## Descripción
-Este repositorio contiene un dashboard de Power BI que analiza y monitorea la operativa logística de la empresa. Las métricas incluidas permiten evaluar el rendimiento en la distribución de pedidos y optimizar el flujo de trabajo.
+Este repositorio contiene un dashboard de Power BI que analiza y monitorea la operatividad logística de la empresa. Las métricas incluidas permiten evaluar el rendimiento en la distribución de pedidos y optimizar el flujo de trabajo.
 
 
 ## Métricas Principales
