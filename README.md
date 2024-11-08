@@ -18,7 +18,7 @@ El objetivo de este análisis es proporcionar insights para mejorar la eficienci
 
 
 ## Conclusión
-Este informe es posible gracias a la elaboración, gestión y seguimiento de procesos de ordenamiento y toma de datos. Se recomienda trabajar activamente con tres choferes y contar con un cuarto de reserva en caso de viajes o ausencias. Además, se sugiere que la persona a cargo del vehículo Iveco realice las entregas acompañada, en función de la cantidad de bultos y la lista de clientes asignados.
+Este informe es posible gracias a la elaboración, gestión y seguimiento de procesos de ordenamiento y toma de datos. Se recomienda trabajar activamente con tres choferes y contar con un cuarto de reserva en caso de viajes o ausencias. Además, se sugiere que la persona a cargo del vehículo Iveco realice las entregas acompañado, en función de la cantidad de bultos y la lista de clientes asignados.
 
 
 ## Herramientas Utilizadas
