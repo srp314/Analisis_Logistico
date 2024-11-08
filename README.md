@@ -10,7 +10,7 @@ El dashboard incluye las siguientes métricas clave:
   - Flujo de trabajo semanal: Visualización del volumen de repartos a lo largo de la semana.
   - Cantidad de bultos movidos por persona: Métrica que mide la eficiencia de cada empleado en la manipulación de bultos.
   - Cantidad de bultos por vehículo: Análisis de la carga y el rendimiento de cada vehículo.
-  - Cantidad de bultos por pedido: Métrica que detalla el volumen de bultos asociados a cada pedido.
+  - Cantidad de bultos por pedido: Métrica que ayuda a tener un grasp mas fino del movimiento promedio de cada pedido permitiendo así generar un análisis mas fino sobre el trabajo físico y estrucutral que conlleva cada operario y elemento
 
 
 ## Objetivo
